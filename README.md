@@ -1,4 +1,4 @@
-﻿# Coding-Dojo
+﻿# Coding-Dojo 👩‍💻
 
 Precisamos implementar as seguintes funcionalidades utilizando Estruturas de Dados como Listas Lineares, Pilhas e Filas:
 
